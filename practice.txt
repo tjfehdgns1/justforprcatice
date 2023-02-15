@@ -1,2 +1,9 @@
 add and commit git
+git init 깃사용
 vscode git usage
+git diff
+use this not line3
+git difftool 
+git log --oneline --all  로그보기
+git difftool (commit ID) 
+그냥 expansion 씀
