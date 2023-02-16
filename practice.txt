@@ -29,3 +29,9 @@ git clone 주소
 git pull 로 최신 변동을 저장하고 git push
 git pull == git fetch(원격저장소 신규 커밋 가져오기) + git merge
 git pull 주소 브랜치 로 원하는 브랜치 변동 사항만 저장가능
+git stash 임시저장
+git stash list
+git stash save "" 메모
+git stash pop
+git stash drop 삭제할id
+git stash clear
