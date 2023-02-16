@@ -7,3 +7,5 @@ git difftool
 git log --oneline --all  로그보기
 git difftool (commit ID) 
 그냥 expansion 씀
+git branch (이름)
+git switch (이름)
