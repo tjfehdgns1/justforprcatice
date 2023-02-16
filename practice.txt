@@ -10,3 +10,4 @@ git difftool (commit ID)
 git branch (이름)
 git switch (이름)
 메인에서 git merge (합칠 이름)
+fast wat merge가 싫으면 git merge --no-ff 브랜치명
