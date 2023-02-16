@@ -7,6 +7,6 @@ git difftool
 git log --oneline --all  로그보기
 git difftool (commit ID) 
 그냥 expansion 씀
-git branch (new name)
-git switch (name)
-git merge (branch name)
+git branch (이름)
+git switch (이름)
+메인에서 git merge (합칠 이름)

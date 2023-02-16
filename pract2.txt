@@ -1,0 +1,2 @@
+this is pract2 branch
+같은 줄 수정하면 오류남
