@@ -22,3 +22,6 @@ git restore --staged (파일명)
 git revert (커밋아이디)  작업취소 
 git revert HEAD 방근 커밋 취소
 git reset --hard (커밋아이디) 과거회귀
+git push -u (저장소주소) (브랜치명)
+git remote add 변수명 주소
+한번 하면 그냥 git push
