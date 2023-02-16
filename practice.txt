@@ -9,3 +9,4 @@ git difftool (commit ID)
 그냥 expansion 씀
 git branch (이름)
 git switch (이름)
+메인에서 git merge (합칠 이름)
