@@ -15,3 +15,4 @@ git branch -d (브랜치)
 git branch -D (브랜치) merge안한 브랜치 삭제
 git rebase main 브랜치에서
 다시 메인에 가서 git merge 브랜치명
+git merge --squash 새브런치 하면 짤짤이 커밋이 안보이고 메인만 깔끔하게
